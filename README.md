@@ -1,5 +1,6 @@
-# Título do Projeto
+# Tela de Página de Cobrança
 
+Protótipo disponibilizado:
 
 ![Capa do Projeto](./imagens/day_1585.png)
 
@@ -10,7 +11,8 @@ O projeto é referente a matéria de Usabilidade, desenvolvimento web, mobile e 
 A interface feita nesse projeto foi a **tela de cobrança**. A ideia é que a implementação da tela seja o mais fiel possível ao protótipo de tela fornecido pelo professor.
 
 O protótipo está disponível [nesse link](https://uidesigndaily.com/posts/figma-billing-page-payment-day-1585).
-Caso deseja ver a versão final da implementação da **tela de cobrança**, basta acessar [esse link](https://pagina-cobranca.vercel.app/)
+
+Caso deseja ver a versão final da implementação da **tela de cobrança**, basta acessar [esse link](https://pagina-cobranca.vercel.app/).
 
 # Índice/Sumário
 
