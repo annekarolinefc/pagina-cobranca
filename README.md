@@ -50,7 +50,7 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     <tr>
     <td align="center">
 	  	<a href="https://github.com/annekarolinefc">
-			<img src="ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
+			<img src="imagens/ft_Anne.jpg" width="100px;" alt="Anne Karoline"/>
 			<br />
 			<sub><b>Anne K. F. Carmo</b></sub>
 		</a>
